@@ -1,0 +1,31 @@
+#main-nav li{
+list-style-type: none;
+display: inline;
+text-decoration-color: #ffffff;
+text-align-last: center;
+}
+
+#main-box{
+  background-color: azure;
+  padding: 0.5in;
+}
+
+a:hover {
+    color: #ff4c4c;
+  }
+a:click{
+  color: #ff4c4c;
+}
+
+ h2{
+  color: azure;
+  text-align-last: center;
+ }
+ #test{
+   align-self: center;
+ }
+
+  body {
+      background-image: linear-gradient(#ff4c4c,azure);
+    
+  }
